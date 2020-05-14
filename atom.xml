@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://1404-class.github.io</id>
     <title>1404班官网</title>
-    <updated>2020-05-14T09:46:26.955Z</updated>
+    <updated>2020-05-14T10:15:58.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://1404-class.github.io"/>
     <link rel="self" href="https://1404-class.github.io/atom.xml"/>
     <logo>https://1404-class.github.io/images/avatar.png</logo>
     <icon>https://1404-class.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 1404班官网</rights>
+    <entry>
+        <title type="html"><![CDATA[　]]></title>
+        <id>https://1404-class.github.io/post/</id>
+        <link href="https://1404-class.github.io/post/">
+        </link>
+        <updated>2020-05-14T10:14:21.000Z</updated>
+        <content type="html"><![CDATA[<p></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QQ群]]></title>
         <id>https://1404-class.github.io/post/qq/</id>
