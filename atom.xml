@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://1404-class.github.io</id>
     <title>1404班官网</title>
-    <updated>2020-05-17T14:02:25.167Z</updated>
+    <updated>2020-05-18T08:21:21.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://1404-class.github.io"/>
     <link rel="self" href="https://1404-class.github.io/atom.xml"/>
@@ -10,20 +10,4 @@
     <logo>https://1404-class.github.io/images/avatar.png</logo>
     <icon>https://1404-class.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 1404班官网</rights>
-    <entry>
-        <title type="html"><![CDATA[5号]]></title>
-        <id>https://1404-class.github.io/5-hao/</id>
-        <link href="https://1404-class.github.io/5-hao/">
-        </link>
-        <updated>2020-05-17T13:47:28.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://1404-class.github.io/post-images/1589718784241.png" alt="" loading="lazy"><br>
-姓名：李梓骞<br>
-外号：暂无<br>
-QQ名：未知<br>
-QQ号：未知<br>
-微信名：骞哥<br>
-微信id：love_qianqianbaoma<br>
-手机号：未知</p>
-]]></content>
-    </entry>
 </feed>
